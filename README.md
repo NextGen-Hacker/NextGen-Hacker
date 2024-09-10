@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*ndZvwzx3tlkjfW50.jpg"/> </p>
 <h1 align="center">Hi 👋, I'm Robiul Islam</h1>
 <h3 align="center">Certified Ethical Hacker And Cyber Security Specialist</h3>
-<img align="Right" alt="coding" width="400" src="https://media1.tenor.com/m/54mjjpuowCgAAAAC/ninjala-jane.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nextgen-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="nextgen-hacker" /> </p>
 
 
 - 🔭 I’m currently Working On Cyber Security **VAPT and WAPT**
